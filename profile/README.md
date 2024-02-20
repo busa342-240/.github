@@ -14,3 +14,7 @@
 Have a GREAT day👌
 
 Thank you for visiting.  👋
+
+![Venn diagram](./venn_me_gen.png)
+
+https://devopedia.org/probability-for-data-scientists
